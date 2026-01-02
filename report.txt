@@ -1,15 +1,36 @@
 1. Setup the Github repo
-    a) Create .gitignore file in github and select python it will add content accordingly
-    b) new environment
-    c) Setup.py
-    d) requirements.txt
+    a) Create .gitignore file in GitHub and select Python; it will add content accordingly.
+    b) Create a new environment.
+    c) Setup.py for packaging.
+    d) requirements.txt for dependencies.
 
 2. src folder and build the package
-    a) Create component folder for different components like data ingetion, transformation and trainer
-    b) Create pipeline folder for training and predicting pipeline
-    c) exception.py for eroor message
-    d) logger.py for logging all error handling
-    e) utils.py
+    a) Create a `components` folder for different modules like data ingestion, transformation, and trainer.
+    b) Create a `pipeline` folder for training and prediction pipelines.
+    c) `exception.py` for error handling.
+    d) `logger.py` for logging all processes and errors.
+    e) `utils.py` for utility functions.
 
-3. API ingetion from reddit API
-    a) 
+3. Project Structure for GlobalLens
+    a) Implement modules for:
+        - Data Ingestion
+        - Data Cleaning & Preprocessing
+        - Feature Engineering
+        - Development Intelligence
+        - Economic Risk Intelligence
+        - Forecasting & Scenario Analysis
+        - Visualization & Insights
+    b) Ensure modularity and reusability of code.
+
+4. Documentation
+    a) Update README.md with project details.
+    b) Maintain clear documentation for each module.
+    c) Add comments and docstrings in the code for better understanding.
+
+5. Final Deliverables
+    a) Modular codebase.
+    b) Clean datasets.
+    c) Analysis notebooks.
+    d) Visualizations and reports.
+    e) Optional interactive dashboard.
+

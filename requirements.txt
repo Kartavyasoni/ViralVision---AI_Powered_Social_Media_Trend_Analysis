@@ -1,11 +1,41 @@
+# Data processing
 pandas
+numpy
+pyspark
+
+# Machine Learning
 scikit-learn
+xgboost
+
+# Forecasting
+statsmodels
+prophet
+
+# Visualization
 matplotlib
 seaborn
-jupyter
-nltk
-textblob
-flask
+streamlit
+folium
+
+# API requests
 requests
-praw
+
+# Database connectors
+sqlalchemy
+psycopg2
+
+# Workflow management
+apache-airflow
+
+# Deployment
+docker
+
+# Testing and code quality
+pytest
+black
+
+# Packaging
+setuptools
+
+# Editable install (optional)
 -e .
