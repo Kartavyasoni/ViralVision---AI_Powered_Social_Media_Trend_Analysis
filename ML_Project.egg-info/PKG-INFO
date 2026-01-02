@@ -1,0 +1,17 @@
+Metadata-Version: 2.4
+Name: ML_Project
+Version: 0.0.1
+Summary: A brief description of your package
+Home-page: http://your.package.url
+Author: Kartavya Soni
+Author-email: sonikartavya2003@outlook.com
+Requires-Dist: pandas
+Requires-Dist: scikit-learn
+Requires-Dist: matplotlib
+Requires-Dist: seaborn
+Requires-Dist: jupyter
+Dynamic: author
+Dynamic: author-email
+Dynamic: home-page
+Dynamic: requires-dist
+Dynamic: summary

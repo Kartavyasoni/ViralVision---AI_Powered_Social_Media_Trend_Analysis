@@ -1,0 +1,15 @@
+1. Setup the Github repo
+    a) Create .gitignore file in github and select python it will add content accordingly
+    b) new environment
+    c) Setup.py
+    d) requirements.txt
+
+2. src folder and build the package
+    a) Create component folder for different components like data ingetion, transformation and trainer
+    b) Create pipeline folder for training and predicting pipeline
+    c) exception.py for eroor message
+    d) logger.py for logging all error handling
+    e) utils.py
+
+3. API ingetion from reddit API
+    a) 

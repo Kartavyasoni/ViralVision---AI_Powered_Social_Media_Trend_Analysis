@@ -1,0 +1,11 @@
+pandas
+scikit-learn
+matplotlib
+seaborn
+jupyter
+nltk
+textblob
+flask
+requests
+praw
+-e .
